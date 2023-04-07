@@ -147,6 +147,7 @@
         document.getElementById("items").hidden=true;
         document.getElementById("tablaItems").innerHTML="";
         document.getElementById("estado").innerHTML="";
+        reload();
     });
 
     // C A R G A   D E   L O C A L S T O R A G E   en   items
@@ -215,7 +216,8 @@
                 return true;
             }
         } catch (e) {
-            alert("LocalStorage no disponible. No se presentan items.");
+            //alert("LocalStorage no disponible. No se presentan items.");
+            reload();
             return false;
         }
     }
