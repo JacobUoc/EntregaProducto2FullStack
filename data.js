@@ -25,19 +25,19 @@ let salas = [
     }
 ];
 const users = [
-    {'username':'jerry',
+    {'username':'Jose',
      'email':'jerry@gmail.com',
      'password':'$2a$12$GU8H01saxLbjsF3kqGeBQuwX8N.puTlUqH23XGqLQ4lLcFiLcOpaq',
      'imagen':'./images/avatar1.jpg'},
-    {'username':'jjj',
+    {'username':'Jacobo',
      'email':'jjj@gmail.com',
      'password':'$2a$12$GU8H01saxLbjsF3kqGeBQuwX8N.puTlUqH23XGqLQ4lLcFiLcOpaq',
      'imagen':'./images/avatar2.jpg'},
-    {'username':'jj',
+    {'username':'Gaspar',
      'email':'jj@gmail.com',
      'password':'$2a$12$GU8H01saxLbjsF3kqGeBQuwX8N.puTlUqH23XGqLQ4lLcFiLcOpaq',
      'imagen':'./images/avatar3.jpg'},
-    {'username':'j',
+    {'username':'Marian',
      'email':'j@gmail.com',
      'password':'$2a$12$GU8H01saxLbjsF3kqGeBQuwX8N.puTlUqH23XGqLQ4lLcFiLcOpaq',
      'imagen':'./images/avatar4.jpg'}
